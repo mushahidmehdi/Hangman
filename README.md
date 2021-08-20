@@ -34,7 +34,7 @@ For example, if you saved ps3_hangman.py and words.txt in the directory "`C:/Use
 
 `WORDLIST_FILENAME` = `"words.txt"`  to something like
 
-`WORDLIST_FILENAME = "C:/Users/Ana/words.txt"`
+`WORDLIST_FILENAME = "/home/musho/words.txt"`
 
 This folder will vary depending on where you saved the files.
 
